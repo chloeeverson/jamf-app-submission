@@ -3,6 +3,7 @@ import { createTheme, ThemeProvider } from '@material-ui/core';
 import { useSelector } from 'react-redux'
 import { useEffect, useState } from 'react'
 
+//import components
 import './App.css';
 import Header from '../Header/Header';
 import NavBar from '../NavBar/NavBar'
